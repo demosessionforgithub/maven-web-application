@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center"> Mithun Software Solutions- Excellent caoching centre and provided procudeuced problems and given solution at the same time. This kind of teaching skill is unique Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center"> Mithun Software Solutions- Excellent caoching centre and produced problems in classes and given solution at the same time. This kind of teaching skill is unique in any coaching centre. This is the best instuite in Bangalore India fo devops candiates and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
